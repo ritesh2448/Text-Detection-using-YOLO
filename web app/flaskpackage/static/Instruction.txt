@@ -1,0 +1,2 @@
+If you want to deploy your own model,rename your model to yolo_model.h5
+and replace instruction.txt with it 
